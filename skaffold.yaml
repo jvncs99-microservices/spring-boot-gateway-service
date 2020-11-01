@@ -4,7 +4,7 @@ metadata:
   name: spring-boot-gateway-service
 build:
   artifacts:
-    - image: subhakarkotta/spring-boot-gateway-service
+    - image: jvncs99/spring-boot-gateway-service
       jib: {}
   tagPolicy:
     sha256: {}
