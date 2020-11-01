@@ -44,7 +44,7 @@ spec:
     stages {
         stage('Checkout') {
             steps {
-                git url:'https://github.com/subhakar-microservices/spring-boot-gateway-service.git',branch: 'main'
+                git url:'https://github.com/jvncs99-microservices/spring-boot-gateway-service.git',branch: 'main'
             }
         }
         
