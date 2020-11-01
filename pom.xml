@@ -8,7 +8,7 @@
       <relativePath />
       <!-- lookup parent from repository -->
    </parent>
-   <groupId>org.subhakar.services</groupId>
+   <groupId>org.jvncs99.services</groupId>
    <artifactId>spring-boot-gateway-service</artifactId>
    <version>1.0</version>
    <name>spring-boot-gateway-service</name>
