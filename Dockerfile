@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-alpine
+FROM openjdk:11.0.8-jre-slim
 ENV APP_FILE spring-boot-gateway-service-1.0.jar
 ENV APP_HOME /usr/apps
 EXPOSE 8080
